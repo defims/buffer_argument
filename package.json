@@ -1,0 +1,20 @@
+{
+  "name": "buffer_argument",
+  "version": "1.0.0",
+  "description": "buffer the function's arguments after each call",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defims/buffer_argument.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/defims/buffer_argument/issues"
+  },
+  "homepage": "https://github.com/defims/buffer_argument#readme"
+}
