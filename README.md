@@ -10,6 +10,8 @@ npm run test
 
 ## usage
 
+orientation and motion will never be undefined after they call once.
+
     function on_device_moving(orientation, motion) {
         if(orientation && motion) {
             console.log("alpha:", orientation.alpha)
